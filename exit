@@ -1,0 +1,17 @@
+[33mcommit 727fc39d5aeab9544280043ec99671ae3b47f643[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: JoeJ-Dev <217183476+JoeJ-Dev@users.noreply.github.com>
+Date:   Fri Jun 20 11:54:58 2025 +0100
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 06f9b6a6ffcbfcf2f89fde4adc7f7ff9b21b8ab9[m
+Author: JoeJ-Dev <217183476+JoeJ-Dev@users.noreply.github.com>
+Date:   Fri Jun 20 11:43:01 2025 +0100
+
+    Add hello_world.txt
+
+[33mcommit 27ab8dcd650e97a9376ffd22ba02826f47524559[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JoeJ-Dev <217183476+JoeJ-Dev@users.noreply.github.com>
+Date:   Fri Jun 20 11:30:40 2025 +0100
+
+    Initial commit
