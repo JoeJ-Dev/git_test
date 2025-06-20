@@ -3,3 +3,4 @@ This is just a test to see if the changes have been staged
 This is a second test to see if the git add . works correctly
 
 Did it work?
+
